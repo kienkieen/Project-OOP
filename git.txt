@@ -1,0 +1,7 @@
+git clone
+
+git add .
+git commit -am "message gui len"
+git push
+
+git pull
